@@ -9,3 +9,4 @@ echo "<li><strong>Indirizzo IP:</strong> $ip</li>";
 echo "<li><strong>User-Agent:</strong> $user_agent</li>";
 echo "<li><strong>Nome file:</strong> $nome_file</li>";
 echo "</ul>"; 
+?>
